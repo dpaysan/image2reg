@@ -3,7 +3,7 @@
 **by Daniel Paysan (#), Adityanarayanan Radhakrishnan (#), Xinyi Zhang, G.V. Shivashankar (^) and Caroline Uhler (^)**
 
 The repository contains the code for the main methodology and analyses described in our paper: 
- >[*Image2Reg: Linking Chromatin Images to Gene Regulation using Genetic Perturbation Screens (Under Review)*](https://github.com/uhlerlab/Image2Reg).
+ >[*Image2Reg: Linking Chromatin Images to Gene Regulation using Genetic Perturbation Screens, 2025: 16 *]([https://github.com/uhlerlab/Image2Reg](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00126-7)).
  
  ![](https://github.com/dpaysan/image2reg/blob/389a275421f9d5508685ba0feb30f051085c54b2/imag2reg_pipeline.png)
 
@@ -412,7 +412,17 @@ If you encounter any problems with setting up the software please open a respect
 
 If you use the code provided in the directory please also reference our work as follows:
 
-**TO BE ADDED**
+```
+@article{paysan2025image2reg,
+  title={Image2Reg: Linking chromatin images to gene regulation using genetic and chemical perturbation screens},
+  author={Paysan, Daniel and Radhakrishnan, Adityanarayanan and Zhang, Xinyi and Shivashankar, GV and Uhler, Caroline},
+  journal={Cell Systems},
+  volume={16},
+  number={6},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 If you use the our software with the sample input images and/or the data provided please make sure to also reference the the corresponding raw data resources which are described in the paper. as well as our work.
 
